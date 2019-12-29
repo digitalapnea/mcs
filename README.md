@@ -1,0 +1,2 @@
+# mcs
+Minecraft Server Scripts
